@@ -17,7 +17,7 @@
 在APP模块下的build.gradle中添加依赖：
 
     dependencies {
-        implementation 'com.github.JuHonggang:ShadowDrawable:0.1'
+        implementation 'com.github.hexingbo:ShadowDrawableNew:0.1'
     }
 
 #### 使用
